@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zuoxiaolei
+- 👀 I’m interested in programming and AI
+- 🌱 I’m currently learning computer graph
